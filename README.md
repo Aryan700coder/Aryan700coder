@@ -1,15 +1,14 @@
 <h1 align="center">Hello People 👋, I'm Aryan</h1>
 <h3 align="center">Nothing I play games and code for fun.</h3>
-#Information 
-<h4 align="center">```js
+
+```js
   module.exports = {
     name: 'Aryan',
     age: '14',
     know_for: 'making discord bots',
     favourite_language: 'python, javascript, c#'
 }
-
-console.log('Hello World!')``` </h4>
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryancoder700&label=Profile%20views&color=0e75b6&style=flat" alt="aryancoder700" /> </p>
 
 - 🌱 I’m currently learning **MongoDB, php and android studio**
