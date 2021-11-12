@@ -5,7 +5,7 @@
   module.exports = {
     name: 'Aryan',
     age: '14',
-    know_for: 'making discord bots',
+    known_for: 'making discord bots',
     favourite_language: 'python, javascript, c#'
 }
 ```
