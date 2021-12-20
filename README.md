@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Aryan</h1>
 <h3 align="center">I am a cool programmer [Not really] from earth</h3>
-```js
+```
 const Aryan = {
     FavouriteLanguage: "Javascript, C#, C++, Python and Java",
     age: 14,
