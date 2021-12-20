@@ -1,12 +1,13 @@
 <h1 align="center">Hi There 👋, I'm Aryan</h1>
 <h3 align="center">I am a cool programmer [Not really] from earth</h3>
-<h2> ```js
+<h2 align="center"> ```js
   module.exports = {
   name: 'Aryan',
   age: 15,
   FavouriteLanguage: 'JavaScript, Python, C# and Java'
   }
   ```
+  </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan700coder&label=Profile%20views&color=0e75b6&style=flat" alt="aryan700coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan700coder" alt="aryan700coder" /></a> </p>
