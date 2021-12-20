@@ -1,12 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Aryan</h1>
 <h3 align="center">I am a cool programmer [Not really] from mars</h3>
-```const Aryan = {
-    FavouriteLanguage: "Javascript, C#, C++, Python and Java",
-    age: 14,
-    location: "Mars",
-    FavouriteThing: "Make Discord bots and nothing",
-};
-```
+<h3 align="center"> ✨ No need to get Information about me </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan700coder&label=Profile%20views&color=0e75b6&style=flat" alt="aryan700coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan700coder" alt="aryan700coder" /></a> </p>
