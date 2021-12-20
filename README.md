@@ -1,7 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Aryan</h1>
-<h3 align="center">I am a cool programmer [Not really] from earth</h3>
-```
-const Aryan = {
+<h3 align="center">I am a cool programmer [Not really] from mars</h3>
+```const Aryan = {
     FavouriteLanguage: "Javascript, C#, C++, Python and Java",
     age: 14,
     location: "Mars",
