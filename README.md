@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan700coder" alt="aryan700coder" /></a> </p>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Mern Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
