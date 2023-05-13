@@ -31,6 +31,6 @@ export default {
 <details>
   <summary>⚡ GitHub stats</summary>
   <br>
-  <img align="left" alt="CodeWithSwastik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aryan700coder&show_icons=true&hide_border=true&theme=discord_old_blurple " />
+  <img align="left" alt="Aryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aryan700coder&show_icons=true&hide_border=true&theme=discord_old_blurple " />
 
 </details>
